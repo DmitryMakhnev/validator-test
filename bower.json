@@ -1,0 +1,24 @@
+{
+  "name": "validator-test",
+  "description": "simple js test environment for validator testing",
+  "version": "0.0.1",
+  "main": "./src/validator-test.js",
+  "dist": "./dist/",
+  "license": "MIT",
+  "keywords": [],
+  "authors": [
+    {
+      "name": "Dmitry Makhnev",
+      "email": "dmitry.ivshin@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DmitryMakhnev/validator-test.git"
+  },
+  "umdName": "validator",
+  "dependencies": {
+    "default-lib": "*",
+    "default-testing": "*"
+  }
+}
